@@ -2,11 +2,11 @@
 Write a python program to perform the following operations on the given string using the various regular expression functions.
 flight_details="Good Evening, Welcome to British Airways. Your flight number is ba8004. Flight departure time is 16:45"
 
-Find whether the flight service name, British Airways is present in the given string and if so, display it.
-Find whether the flight details ends with the departure time, 16:45 and if so, display it.
-Find whether the flight details starts with "Good" and if so, display it.
-Find a word which starts with 'F' and having 6 characters in it, if so display it.
-Search for a word which starts with "ba" followed by exactly 4 digits. If found, replace the two alphabets with the corresponding uppercase
+1. Find whether the flight service name, British Airways is present in the given string and if so, display it.
+2. Find whether the flight details ends with the departure time, 16:45 and if so, display it.
+3. Find whether the flight details starts with "Good" and if so, display it.
+4. Find a word which starts with 'F' and having 6 characters in it, if so display it.
+5. Search for a word which starts with "ba" followed by exactly 4 digits. If found, replace the two alphabets with the corresponding uppercase
 alphabets.
 For questions 1 to 4, if the searched pattern is not present, display "No Output"
 '''

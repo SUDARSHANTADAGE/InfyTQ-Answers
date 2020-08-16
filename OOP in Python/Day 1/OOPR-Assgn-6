@@ -1,0 +1,5 @@
+ClassName: Instructor
+
+Attributes: technology_skills, avg_feedback, experience, instructor_name
+
+Methods: __init__(), check_eligibility(), allocate_course(technology)

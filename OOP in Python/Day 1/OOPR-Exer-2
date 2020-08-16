@@ -1,0 +1,10 @@
+Classname:
+Employee
+
+Attributes:
+age
+salary
+name
+
+Method:
+__init__()

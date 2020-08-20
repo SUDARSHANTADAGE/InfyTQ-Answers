@@ -1,0 +1,5 @@
+ClassName: Vehicle
+
+Attributes: fuel_left, mileage
+
+Method: __init__(), identify_distance_that_can_be_travelled(), identify_distance_travelled(initial_fuel)

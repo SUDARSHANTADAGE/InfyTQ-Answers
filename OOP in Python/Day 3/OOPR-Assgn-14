@@ -1,0 +1,5 @@
+ClassName: Parrot
+
+Attributes: name,color,uniqque_number, couter->static
+
+Method: __init__(name,color)

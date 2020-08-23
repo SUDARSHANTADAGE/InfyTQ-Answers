@@ -1,0 +1,1 @@
+create table Tournament(TId INTEGER primary key,TName varchar2(30) not null,StartDt date not null, EndDt date not null,Prize INTEGER not null)

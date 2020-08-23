@@ -1,0 +1,1 @@
+create table Player(PId number primary key,PName varchar2(20) NOT NULL, Ranking number)

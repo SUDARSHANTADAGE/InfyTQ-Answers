@@ -1,1 +1,8 @@
-create table Shopper(Shopperid number primary key,Shoppername varchar2(20) not null, gender char(6) check(gender in ('Male','Female')),MobileNo integer not null,address varchar2(50))
+create table Shopper
+(Shopperid number primary key,
+Shoppername varchar2(20) not null,
+gender char(6) 
+check(gender in ('Male','Female')),
+MobileNo integer not null,
+address varchar2(50)
+)

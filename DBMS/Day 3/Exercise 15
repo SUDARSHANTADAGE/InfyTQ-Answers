@@ -1,0 +1,1 @@
+select prodid,pdesc,category,discount from product where category='Apparel'

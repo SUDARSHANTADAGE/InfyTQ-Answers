@@ -1,0 +1,1 @@
+insert into shopper values(101,'Mark Jane','Male',1234567890,'Allen Street, New York')

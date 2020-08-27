@@ -1,0 +1,1 @@
+insert into store(storename,location,managername)values('Loyal World','Infy Campus, Mysore','Rohan Kumar')

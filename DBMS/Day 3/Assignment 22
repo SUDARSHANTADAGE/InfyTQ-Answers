@@ -1,0 +1,1 @@
+select designation,salary from empdetails where designation='Manager' OR designation='Billing Staff'

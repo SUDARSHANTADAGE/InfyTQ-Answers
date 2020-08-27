@@ -1,0 +1,1 @@
+select roid,location from retailoutlet where managerid is NULL

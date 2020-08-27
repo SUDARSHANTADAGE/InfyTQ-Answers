@@ -1,0 +1,1 @@
+select empid, salary as "Current Salary",salary*1.1 as "New Salary",salary*0.1 as "Incremented Amount" from empdetails

@@ -1,0 +1,1 @@
+insert into supplier values('S501','Avaya Ltd',9012345678,'Mysore')

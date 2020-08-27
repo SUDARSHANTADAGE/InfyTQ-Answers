@@ -1,0 +1,1 @@
+select orderid,quotationid,status from orders where orderdate between '1-Dec 2014' AND '1-Jan-2015'

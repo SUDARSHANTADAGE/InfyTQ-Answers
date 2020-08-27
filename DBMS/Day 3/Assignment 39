@@ -1,0 +1,1 @@
+select designation,salary from empdetails where salary between 2500 and 5000

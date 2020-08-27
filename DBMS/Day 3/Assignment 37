@@ -1,0 +1,1 @@
+select quotationid,qdate,quotedprice from quotation where quotedprice between 1401 AND 2149

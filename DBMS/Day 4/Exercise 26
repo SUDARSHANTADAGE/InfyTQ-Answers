@@ -1,0 +1,3 @@
+select NVL(pdesc,'No Description') PDESC,discount from product
+
+No expected answer for this question

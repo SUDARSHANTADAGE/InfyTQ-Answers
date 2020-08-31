@@ -1,0 +1,1 @@
+select count(saleid) SALE_COUNT from sale where MONTHS_BETWEEN(sysdate,sldate)<=40

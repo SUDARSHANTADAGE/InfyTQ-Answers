@@ -1,0 +1,1 @@
+select prodid,sum(quantity) qty_sold from saledetail where quantity>1 group by prodid having count(*)>1
